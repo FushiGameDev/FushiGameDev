@@ -3,9 +3,9 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Mixed Reality </b>
-  - [Mixed Reality Training Application](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mixed Reality Training Application](https://github.com/FushiGameDev/Mixed-Reality-Training-App)
 - <b>Unity Games</b>
-  - [Comedy Attic]
+  - [Comedy Attic](https://github.com/FushiGameDev/ComedyAttic)
   - [Dinosaur Apocalypse]
   - [Football Story]
 - <b>Some IRL Projects ;)</b>
