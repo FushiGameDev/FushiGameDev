@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kamil! <br/><a href="https://drive.google.com/drive/folders/1BMz-kRYjAutS9GPaQSJWqIoJDihdDU0V?usp=drive_link">Solo Game Developer</a>
+<h1>Hi, I'm Kamil! <br/><a href="https://drive.google.com/drive/folders/1BMz-kRYjAutS9GPaQSJWqIoJDihdDU0V?usp=drive_link">I just like to make stuff</a>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -6,8 +6,8 @@
   - [Mixed Reality Training Application](https://github.com/FushiGameDev/Mixed-Reality-Training-App)
 - <b>Unity Games</b>
   - [Comedy Attic](https://github.com/FushiGameDev/ComedyAttic)
+  - [Football Story](https://github.com/FushiGameDev/FootballStory)
   - [Dinosaur Apocalypse]
-  - [Football Story]
 - <b>Some IRL Projects ;)</b>
   - [Rick's Workshop Portal Gun]
   - [1v1 Card Game]
