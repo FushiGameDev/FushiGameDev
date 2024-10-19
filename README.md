@@ -7,7 +7,7 @@
 - <b>Unity Games</b>
   - [Comedy Attic](https://github.com/FushiGameDev/ComedyAttic)
   - [Football Story](https://github.com/FushiGameDev/FootballStory)
-  - [Dinosaur Apocalypse]
+  - [DINO](https://github.com/FushiGameDev/DINO/tree/main)
 - <b>Some IRL Projects ;)</b>
   - [Rick's Workshop Portal Gun]
   - [1v1 Card Game]
