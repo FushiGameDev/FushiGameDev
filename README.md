@@ -8,9 +8,27 @@
   - [Comedy Attic](https://github.com/FushiGameDev/ComedyAttic) 🎭
   - [Football Story](https://github.com/FushiGameDev/FootballStory) ⚽
   - [DINO](https://github.com/FushiGameDev/DINO/tree/main) 🐱‍🐉
-- <b>Some IRL Projects ;)</b>
+
+<h2>  🔜Ongoing projects </h2> 
+
+  - <b> Card Game </b> - roulette card game
+
+  ![CardGame](CardGame.gif)
+
+  - <b> Mobile Dash </b> - mobile arcade game  
+  
+  ![MobileDash](MobileDash.gif)
+
+  - <b> Let me tell you something </b> - game to develop solid dialog system, with open world and some fun storytelling   
+
+  ![LetMeTellYouSomething](https://github.com/FushiGameDev/FushiGameDev/blob/dd8f8632e71e45004c801a21a27bdc35d4154fdf/Let%20me%20tell%20you%20something.gif)
+
+
+<h2> Some IRL Projects ;)</h2>  
+  
   - [Rick's Workshop Portal Gun] 🔫
   - [1v1 Card Game] 🃏
+
 
 <h2> 🤳 Connect with me!</h2>
 
