@@ -13,20 +13,27 @@
 
   - <b> Card Game </b> - roulette card game
 
-  ![CardGame](CardGame.gif)
+  <img src="CardGame.gif" loop=infinite>
 
   - <b> Mobile Dash </b> - mobile arcade game  
   
-  ![MobileDash](MobileDash.gif)
+  <img src="MobileDash.gif" loop=infinite>
 
   - <b> Let me tell you something </b> - game to develop solid dialog system, with open world and some fun storytelling   
 
-  ![LetMeTellYouSomething](https://github.com/FushiGameDev/FushiGameDev/blob/dd8f8632e71e45004c801a21a27bdc35d4154fdf/Let%20me%20tell%20you%20something.gif)
+  <img src="https://github.com/FushiGameDev/FushiGameDev/blob/dd8f8632e71e45004c801a21a27bdc35d4154fdf/Let%20me%20tell%20you%20something.gif" loop=infinite>
 
 
 <h2> Some IRL Projects ;)</h2>  
   
   - [Rick's Workshop Portal Gun] 🔫
+    One time I needed to prepare a costume of Rick. I decided to create a workshop gun simillar to Rick's Portal gun. It shoots with anything you put there but I just used beer caps. It was made with ESP8266 board, leftovers from renovation, glue gun and glass. Made it in 2 days and it was pretty fun to get back to old hobby.
+    
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/b5346be6-e672-4c3a-a71c-977baf32fb17" loop=infinite>
+    <img width="28%" src="https://github.com/FushiGameDev/FushiGameDev/blob/defcc1cf0ec7613cdc05acb440646e99d1dda1b1/Workshop%20portal%20gun.gif" loop=infinite>
+</p>
+    
   - [1v1 Card Game] 🃏
 
 
