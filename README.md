@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kamil! <br/><a href="https://drive.google.com/drive/folders/1BMz-kRYjAutS9GPaQSJWqIoJDihdDU0V?usp=drive_link">I just like to make stuff</a>
+<h1>Hi, I'm Kamil! <br/>Unity Developer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
