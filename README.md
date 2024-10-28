@@ -34,7 +34,7 @@
     <img width="28%" src="WorkshopPortalGun.gif" loop=infinite>
 </p>
     
-  - [1v1 Card Game] 🃏
+  - <b> 1v1 Card Game </b>🃏
 
 
 <h2> 🤳 Connect with me!</h2>
