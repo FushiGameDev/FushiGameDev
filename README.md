@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b> Machine Learning </b>  
+  - [Point clouds recognizer](https://github.com/FushiGameDev/PDolar-Recognition) ☁
+  - [Neural network mobile drawing recognition](https://github.com/FushiGameDev/NeuralNetwork) 🕸
 - <b> Mixed Reality </b>
   - [Mixed Reality Training Application](https://github.com/FushiGameDev/Mixed-Reality-Training-App) 🥽
 - <b>Unity Games</b>
